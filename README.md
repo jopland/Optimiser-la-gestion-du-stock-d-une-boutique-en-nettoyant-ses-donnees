@@ -1,0 +1,1 @@
+# Optimiser-la-gestion-du-stock-d-une-boutique-en-nettoyant-ses-donnees
